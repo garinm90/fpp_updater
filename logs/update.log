@@ -180,3 +180,63 @@ Aug-03-20 07:12 PM DEBUG: Starting new HTTP connection (1): 192.168.1.90:80
 Aug-03-20 07:12 PM DEBUG: http://192.168.1.90:80 "GET /api/sequence HTTP/1.1" 200 43
 Aug-03-20 07:12 PM DEBUG: Starting new HTTP connection (1): 192.168.1.91:80
 Aug-03-20 07:12 PM DEBUG: http://192.168.1.91:80 "GET /copyFilesToRemote.php?ip=192.168.1.90 HTTP/1.1" 200 None
+Aug-03-20 07:46 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:46 PM DEBUG: Starting new HTTP connection (1): 192.168.1.91:80
+Aug-03-20 07:46 PM DEBUG: http://192.168.1.91:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:46 PM DEBUG: Starting new HTTP connection (1): 192.168.1.90:80
+Aug-03-20 07:46 PM DEBUG: http://192.168.1.90:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:46 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:46 PM DEBUG: Starting new HTTP connection (1): 192.168.1.91:80
+Aug-03-20 07:46 PM DEBUG: http://192.168.1.91:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:46 PM DEBUG: Starting new HTTP connection (1): 192.168.1.90:80
+Aug-03-20 07:46 PM DEBUG: http://192.168.1.90:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:47 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:47 PM DEBUG: Starting new HTTP connection (1): 192.168.1.91:80
+Aug-03-20 07:47 PM DEBUG: http://192.168.1.91:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:47 PM DEBUG: Starting new HTTP connection (1): 192.168.1.90:80
+Aug-03-20 07:47 PM DEBUG: http://192.168.1.90:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:47 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:47 PM DEBUG: Starting new HTTP connection (1): 192.168.1.91:80
+Aug-03-20 07:47 PM DEBUG: http://192.168.1.91:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:47 PM DEBUG: Starting new HTTP connection (1): 192.168.1.90:80
+Aug-03-20 07:47 PM DEBUG: http://192.168.1.90:80 "GET /api/sequence HTTP/1.1" 200 52
+Aug-03-20 07:50 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:50 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 07:50 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 07:50 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:50 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 07:50 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 07:51 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:51 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 07:51 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 07:53 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:53 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 07:53 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 07:54 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:54 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 07:54 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 07:59 PM DEBUG: Module and Updater ran!!
+Aug-03-20 07:59 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 07:59 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:00 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:00 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 08:00 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:04 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:04 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 08:04 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:05 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:05 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 08:05 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:10 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:10 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 08:10 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:10 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:10 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 08:10 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:10 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:10 PM DEBUG: Starting new HTTP connection (1): 192.168.1.91:80
+Aug-03-20 08:10 PM DEBUG: http://192.168.1.91:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1347
+Aug-03-20 08:12 PM DEBUG: Module and Updater ran!!
+Aug-03-20 08:12 PM DEBUG: Starting new HTTP connection (1): 192.168.1.112:80
+Aug-03-20 08:12 PM DEBUG: http://192.168.1.112:80 "GET /api/fppd/multiSyncSystems HTTP/1.1" 200 1020
+Aug-03-20 08:12 PM ERROR: The following are offline {'192.168.1.113', '192.168.1.111'}
